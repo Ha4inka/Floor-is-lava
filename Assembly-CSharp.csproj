@@ -62,7 +62,6 @@
   <ItemGroup>
     <Compile Include="Assets\OOP\StaticsGame.cs" />
     <Compile Include="Assets\OOP\Inheritance FruitSaladClass.cs" />
-    <Compile Include="Assets\TrackPosition.cs" />
     <Compile Include="Assets\OOP\GenericClassExample.cs" />
     <Compile Include="Assets\OOP\Member Hiding Enemy Class.cs" />
     <Compile Include="Assets\HelloWorld.cs" />
@@ -90,8 +89,12 @@
     <Compile Include="Assets\OOP\StaticsPlayer.cs" />
     <Compile Include="Assets\OOP\StaticsEnemy.cs" />
     <Compile Include="Assets\OOP\Member Hiding WarBand.cs" />
+    <Compile Include="Assets\Sound.cs" />
     <Compile Include="Assets\OOP\Overriding FruitClass.cs" />
     <Compile Include="Assets\OOP\Inheritance FruitClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\CasualGameBGM05\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

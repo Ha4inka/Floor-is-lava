@@ -383,7 +383,7 @@
 "Assets/OOP/StaticsPlayerManager.cs"
 "Assets/OOP/StaticsUtilities.cs"
 "Assets/PlatformRotate.cs"
-"Assets/TrackPosition.cs"
+"Assets/Sound.cs"
 -langversion:9.0
 
 /deterministic
